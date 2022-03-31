@@ -11,3 +11,7 @@ if this_is_repetitive:
 X = 10
 Y = 20
 sum(X+Y)
+
+Z = "UR BTFL"
+
+print(Z)
